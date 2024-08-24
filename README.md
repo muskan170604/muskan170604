@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muskan Bharti</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan170604&label=Profile%20views&color=0e75b6&style=flat" alt="muskan170604" /> </p>
