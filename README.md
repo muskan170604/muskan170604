@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/muskan_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muskan_17" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mus__kan_17?igsh=MWhtcHY1ZW1ydHJlag==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muskan_17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
