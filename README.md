@@ -15,6 +15,9 @@
 <p align="left">
 <a href="https://www.instagram.com/mus__kan_17?igsh=MWhtcHY1ZW1ydHJlag==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muskan_17" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Muskan170604/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.xf1L9-xRxTfLItbMISor5QAAAA?cb=iwc2&rs=1&pid=ImgDetMain" alt="muskan170604" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muskan-bharti-a7440b28b/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/021/460/490/original/linkedin-logo-free-download-free-png.png" alt="Muskan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1ACNsqpHHS/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.FQYyu80e7eHzc3lbL4BzBQHaHY?cb=iwc2&rs=1&pid=ImgDetMain" alt="Muskan" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
