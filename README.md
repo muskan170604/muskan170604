@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mbharti.nna2008@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/13epqR8HzJVky6wLRMtISvZYcSqcWJuqmi3ibR2ztWl4/edit#heading=h.pzb8c91xyapi](https://docs.google.com/document/d/13epqR8HzJVky6wLRMtISvZYcSqcWJuqmi3ibR2ztWl4/edit#heading=h.pzb8c91xyapi)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M5GmRzLY2Fmoz_BXZvVALAw_XSjAztwa/view?usp=drivesdk](https://drive.google.com/file/d/1M5GmRzLY2Fmoz_BXZvVALAw_XSjAztwa/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
